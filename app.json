@@ -29,7 +29,7 @@
             "required": true
         },
         "BOT_NAME": {
-            "description": "قم بوضع اسم بوتك بدون علامة @",
+            "description": "قم بوضع يوزر بوتك بدون علامة @",
             "required": true
         },
         "ASSISTANT_NAME": {
