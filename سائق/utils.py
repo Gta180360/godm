@@ -33,9 +33,9 @@ async def skip_current_song(chat_id):
                         ),
                     )
                 elif type == "Video":
-                    if Q == 360:
+                    if Q == 720:
                         hm = HighQualityVideo()
-                    elif Q == 360:
+                    elif Q == 480:
                         hm = MediumQualityVideo()
                     elif Q == 360:
                         hm = LowQualityVideo()
